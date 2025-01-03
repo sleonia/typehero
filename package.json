@@ -1,0 +1,18 @@
+{
+  "name": "typehero",
+  "version": "0.0.0",
+  "author": "sleonia",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "globals": "^15.13.0",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "type-testing": "^0.2.0",
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
